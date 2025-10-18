@@ -5,6 +5,9 @@ It replaces hours of manual work with a smart, rule-based and AI-assisted workfl
 
 ---
 
+<img width="1257" height="374" alt="Financial Reconciliation" src="https://github.com/user-attachments/assets/bf99b06f-680d-4c1b-bedc-f6e77731806f" />
+
+
 ## 🚀 Project Overview
 
 Manual reconciliation of transactions against booking data is often error-prone and time-consuming.  
