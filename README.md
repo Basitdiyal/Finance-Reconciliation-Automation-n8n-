@@ -89,3 +89,11 @@ The workflow is triggered **automatically** when:
 <p><strong>Matched:</strong> 17</p>
 <p><strong>Not Found:</strong> 3</p>
 <p>Unmatched transactions require review. Please check the attached sheet.</p>
+
+## 🔗 Related Post
+
+I shared a detailed breakdown of this automation project and its real-world impact on finance teams on LinkedIn.  
+➡️ [View the full post on LinkedIn](https://www.linkedin.com/posts/basitalidiyal_automation-ai-n8n-activity-7385236032289505280-Ee7r)
+
+---
+
